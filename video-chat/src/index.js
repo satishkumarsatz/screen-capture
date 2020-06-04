@@ -28,7 +28,7 @@ function canScreenShare() {
 }
 
 function getUserScreen() {
-  var extensionId = YOUR_EXTENSION_ID;
+  var extensionId = 'iemdffaekfnmkbihikddjcnbcehnehoj';
   if (!canScreenShare()) {
     return;
   }
